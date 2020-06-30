@@ -1,1 +1,6 @@
-# Data_Structures
+# Data Structures
+
+The code is part of YouTube Tutorial for Data Structrues in Albanian language
+
+The code is written in C#, Java and Python
+
